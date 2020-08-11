@@ -195,6 +195,7 @@ body {
   font-weight: normal;
   font-style: normal;
   font-size: 16px;
+  
 }
 
 /* line 10, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
@@ -1293,7 +1294,7 @@ hr {
   position: absolute;
   width: 50px;
   height: 50px;
-  background: #333;
+  background: #A8d0da;
   color: #fff;
   text-align: center;
   border-radius: 50%;
